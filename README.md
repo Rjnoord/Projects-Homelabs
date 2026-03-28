@@ -29,6 +29,9 @@ These folders act as portfolio categories inside this repository. They group my 
 
 ### Splunk and Detection Engineering
 
+- [Splunk-Docker-Linux-Auth-Log-Analysis-Lab](https://github.com/Rjnoord/Splunk-Docker-Linux-Auth-Log-Analysis-Lab)  
+  Docker-based Splunk lab built on macOS with synthetic Linux SSH authentication telemetry, log ingestion, troubleshooting, and search-driven analysis.
+
 - [Splunk-SIEM-Installation-Detection-Lab](https://github.com/Rjnoord/Splunk-SIEM-Installation-Detection-Lab)  
   Splunk SIEM lab focused on ingesting Linux `dpkg` logs, building detections, performing field extraction, and creating dashboards and alerting workflows.
 
