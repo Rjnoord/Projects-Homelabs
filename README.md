@@ -18,6 +18,15 @@ The purpose of this repository is to give recruiters, hiring managers, and techn
 
 ## Lab Repository Index
 
+## Portfolio Folders
+
+These folders act as portfolio categories inside this repository. They group my standalone public repositories by focus area:
+
+- [linux/](linux/)
+- [splunk/](splunk/)
+- [wireshark/](wireshark/)
+- [nmap/](nmap/)
+
 ### Splunk and Detection Engineering
 
 - [Splunk-SIEM-Installation-Detection-Lab](https://github.com/Rjnoord/Splunk-SIEM-Installation-Detection-Lab)  
