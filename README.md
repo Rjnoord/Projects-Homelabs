@@ -26,6 +26,7 @@ These folders act as portfolio categories inside this repository. They group my 
 - [splunk/](splunk/)
 - [wireshark/](wireshark/)
 - [nmap/](nmap/)
+- [cloud/](cloud/)
 
 ### Splunk and Detection Engineering
 
@@ -37,6 +38,11 @@ These folders act as portfolio categories inside this repository. They group my 
 
 - [Splunk-Siem--Linux-Package-installation-Detection-Alerting](https://github.com/Rjnoord/Splunk-Siem--Linux-Package-installation-Detection-Alerting)  
   Detection-focused Splunk lab centered on identifying Linux package installation and configuration activity and converting those observations into scheduled alerts.
+
+### Cloud Security and IAM
+
+- [AWS-IAM-CloudTrail-Least-Privilege-Lab](https://github.com/Rjnoord/AWS-IAM-CloudTrail-Least-Privilege-Lab)  
+  AWS lab focused on IAM group design, user provisioning, admin versus least-privilege comparison, and CloudTrail event review.
 
 ### Linux Security and Authentication
 
