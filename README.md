@@ -14,6 +14,7 @@ The purpose of this repository is to give recruiters, hiring managers, and techn
 - Nmap reconnaissance and network analysis
 - Routing, subnetting, and network configuration
 - Cloud VM security fundamentals
+- Cloud secrets management and audit visibility
 - Security awareness and phishing simulation labs
 
 ## Lab Repository Index
@@ -40,6 +41,9 @@ These folders act as portfolio categories inside this repository. They group my 
   Detection-focused Splunk lab centered on identifying Linux package installation and configuration activity and converting those observations into scheduled alerts.
 
 ### Cloud Security and IAM
+
+- [cloud/azure-key-vault-secrets-management-lab/](cloud/azure-key-vault-secrets-management-lab/)  
+  Azure Key Vault lab covering vault deployment, secret creation, secret versioning and rotation, deletion and recovery awareness, and activity-log-based audit visibility.
 
 - [AWS-IAM-CloudTrail-Least-Privilege-Lab](https://github.com/Rjnoord/AWS-IAM-CloudTrail-Least-Privilege-Lab)  
   AWS lab focused on IAM group design, user provisioning, admin versus least-privilege comparison, and CloudTrail event review.
